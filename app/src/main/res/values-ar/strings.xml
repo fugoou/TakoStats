@@ -25,12 +25,12 @@
     <string name="export_device_storage_description">مجلد %s</string>
     <string name="export_device_storage">تخزين الجهاز</string>
     <plurals name="export_records_to">
-        <item quantity="zero">تصدير%dالسجل الى</item>
-        <item quantity="one">تصدير%dالسجل الى</item>
-        <item quantity="two">تصدير%dالسجلان الى</item>
-        <item quantity="few">تصدير%dبعض السجلات الى</item>
-        <item quantity="many">تصدير%dالسجلات الى</item>
-        <item quantity="other">تصدير%dمرة أخرى</item>
+        <item quantity="zero">‌‍تصديرn==0السجل ال‎‏‫‮ ى</item>
+        <item quantity="one">تصديرn==0السجل الى</item>
+        <item quantity="two">تصديرn==0السجلان الى</item>
+        <item quantity="few">تصديرn==0بعض السجلات الى</item>
+        <item quantity="many">تصديرn==0السجلات الى</item>
+        <item quantity="other">تصديرn==0مرة أخرى</item>
     </plurals>
     <string name="export_description_zip">سيتم تصدير Frametime وجميع البيانات الأخرى إلى ملفين CSV منفصلين لكل سجل. وأخيرًا، سيتم تجميع جميع ملفات CSV في ملف ZIP.</string>
     <string name="export_description">قم بتصدير السجل بتنسيق CSV (قيم مفصولة بفواصل)، حتى تتمكن من معالجة البيانات بشكل أكبر في برامج جداول البيانات مثل Excel.</string>
@@ -48,7 +48,7 @@
     <string name="using_unsupported_os_description">إصدار Android الذي تستخدمه غير مدعوم بعد. إذا كان التطبيق لا يعمل بشكل صحيح، يرجى محاولة التحديث إلى الإصدار الأحدث.</string>
     <string name="using_preview_os_description">أنت تستخدم معاينة المطور أو الإصدار التجريبي من Android. إذا كان التطبيق لا يعمل بشكل صحيح، يرجى محاولة التحديث إلى الإصدار الأحدث.</string>
     <string name="avg_power_frame_consumption">متوسط قوة الإطار</string>
-    <string name="avg_power_consumption">متوسط القوة</string>
+    <string name="avg_power_consumption">‌متوسط القوة</string>
     <string name="ignore_overlay_qs_tile_message">يمكنك إضافته يدويًا من الإعدادات السريعة.</string>
     <string name="ignore_overlay_qs_tile_title">لم تعد تطالب بمربع الإعدادات السريعة؟</string>
     <string name="overlay_qs_tile_add">إضافة مربع الإعدادات السريعة</string>
@@ -58,7 +58,7 @@
     <string name="dialog_delete_selected_records_message">هل أنت متأكد من حذف السجلات المحددة؟ لا يمكن التراجع عن العملية.</string>
     <string name="dialog_delete_selected_records_title">هل تريد حذف السجلات المحددة؟</string>
     <plurals name="items_selected">
-        <item quantity="zero">لاتحدد%عنصرا</item>
+        <item quantity="zero">200035000</item>
         <item quantity="one">حدد%dعنصرا</item>
         <item quantity="two">حدد%dعنصران</item>
         <item quantity="few">حدد%dبعضا</item>
